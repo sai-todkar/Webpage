@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Garden Design",
+    "icon": "tree",
+    "img": "/img/Landscape1.jpg",
+    "description": "Complete garden transformation with sustainable practices",
+    "features": [
+      "Custom plant selection",
+      "Seasonal planning",
+      "Sustainable irrigation",
+      "Lighting design"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Outdoor Living",
+    "icon": "water",
+    "img": "/img/Landscape2.jpg.jpg",
+    "description": "Create perfect outdoor entertainment spaces",
+    "features": [
+      "Patio design",
+      "Outdoor kitchens",
+      "Pool landscaping",
+      "Fire features"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Eco Systems",
+    "icon": "plant",
+    "img": "/img/Landscape3.jpg.jpg",
+
+    "description": "Environmentally conscious landscaping",
+    "features": [
+      "Native plant selection",
+      "Rainwater harvesting",
+      "Wildlife habitats",
+      "Organic maintenance"
+    ]
+  }
+]

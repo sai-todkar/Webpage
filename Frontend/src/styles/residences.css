@@ -1,0 +1,50 @@
+.res-container{
+    overflow: hidden;
+    margin-right: 8rem;
+    margin-left: 8rem;
+
+}
+
+.res-head{
+    margin-bottom: 3rem;
+}
+.res-card{
+    gap: 0.6rem;
+    padding: 1.2rem;
+    border-radius: 10px;
+    width: 15rem;
+    max-width: max-content;
+    margin: auto;
+    transition: all 300ms ease-in;
+}
+
+.res-card img{
+    width: 100%;
+    max-width: 15rem;
+    border-radius: 1rem;
+}
+
+.res-price{
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.res-name{
+    font-size: 1.5rem;
+}
+.res-details{
+    font-size: 0.8rem;
+    width: 10rem;
+}
+
+.res-card:hover{
+    scale: 1.1;
+    cursor: pointer;
+    background:linear-gradient(rgba(255,255,255,0)50%,
+     rgba(136, 160, 255, 0.46)150%);
+
+}
+
+.swiper-horizontal{
+    overflow: visible;
+}

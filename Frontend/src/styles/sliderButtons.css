@@ -1,0 +1,9 @@
+.r-buttons{
+    position: relative;
+    gap: 1rem;
+    top: -4rem;
+}
+
+.r-buttons button{
+    background-color: black;
+}
